@@ -2,6 +2,7 @@
 //       (The MIT License)
 //       Copyright ©2015 仙化似風(國同學)
 //       功能簡介：負責處理圖片合成的功能
+//       開發主頁：https://github.com/nisLarry/ImageBlend
 //----------------------------------------------
 using UnityEngine;
 using System.Collections;

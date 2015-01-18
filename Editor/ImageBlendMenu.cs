@@ -2,6 +2,7 @@
 //       (The MIT License)
 //       工具名稱：ImageBlend 0.0.1(beta)
 //       Copyright ©2015 仙化似風(國同學)
+//       開發主頁：https://github.com/nisLarry/ImageBlend
 //       功能簡介：將兩個資料夾的png圖片依照規則檔設定合成新圖片
 //                 並輸出至指定資料夾中
 //       依賴類：1.BlendImages.cs 負責處理圖片合成的功能

@@ -2,6 +2,7 @@
 //       (The MIT License)
 //       Copyright ©2015 仙化似風(國同學)
 //       功能簡介：負責將規則來源的字串取出
+//       開發主頁：https://github.com/nisLarry/ImageBlend
 //----------------------------------------------
 using UnityEngine;
 using System.Collections;
